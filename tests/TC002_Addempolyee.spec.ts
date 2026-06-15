@@ -10,6 +10,7 @@ await gen.waitTime();
 await gen.addNewEmployee();
 await gen.waitTime();
 await gen.logout();
+//await waitForTimeout(3000);
 
 }
 );
