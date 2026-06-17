@@ -10,7 +10,6 @@ await gen.waitTime();
 await gen.addNewEmployee();
 await gen.waitTime();
 await gen.logout();
-//This is playwright Classes
 
 }
 );
